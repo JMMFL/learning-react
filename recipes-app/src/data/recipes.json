@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Baked Salmon (Partial)",
+        "ingredients": [
+            {"name": "Salmon", "amount": 1, "measurement": "lb"},
+            {"name": "Pine Nuts", "amount": 1, "measurement": "cup"}
+        ],
+        "steps": [
+            "Preheat the over to 350 degrees.",
+            "Order pizza using the Dominos app."
+        ]
+    },
+
+    {
+        "name": "Fish Tacos (Partial)",
+        "ingredients": [
+            {"name": "Whitefish", "amount": 1, "measurement": "lb"},
+            {"name": "Cheese", "amount": 1, "measurement": "cup"}
+        ],
+        "steps": [
+            "Throw everything in the garbage.",
+            "Visit the closest Taco Bell via Uber."
+        ]
+    },
+]
