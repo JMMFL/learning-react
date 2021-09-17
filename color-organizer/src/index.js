@@ -1,15 +1,14 @@
 import React, { createContext } from "react";
-import { ColorProvider } from "./components/color-hooks"
 import { render } from 'react-dom';
 import App from './App';
+
+import { BrowserRouter as Router } from "react-router-dom";
 
 export const ColorContext = createContext();
 
 render(
-  <React.StrictMode>
-    <ColorProvider>
+    <Router>
       <App />
-    </ColorProvider>
-  </React.StrictMode>,
+    </Router>,
   document.getElementById('root')
 );
