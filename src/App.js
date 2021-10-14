@@ -1,7 +1,9 @@
+import Chapter5 from "./chapter-5/Chapter5";
+
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Chapter5 />
     </>
   );
 }
