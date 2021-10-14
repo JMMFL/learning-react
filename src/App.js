@@ -1,4 +1,4 @@
-import Chapter5 from "./chapter-5/Chapter5";
+import Chapter5 from "./chapters/Chapter5";
 
 function App() {
   return (
