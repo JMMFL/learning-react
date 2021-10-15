@@ -1,11 +1,9 @@
-import Chapter5 from "./chapters/Chapter5";
-import Chapter6 from "./chapters/Chapter6";
+import Chapter7 from "./chapters/Chapter7";
 
 function App() {
   return (
     <>
-      <Chapter5 />
-      <Chapter6 />
+      <Chapter7 />      
     </>
   );
 }
